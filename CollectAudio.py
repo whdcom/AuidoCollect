@@ -3,7 +3,7 @@
 '''
 在window下安装pyaudio库
     pip install pyaudio
-可能需要修改设备索引号input_device_index
+可能需要修改设备索引号input_device_index(已解决)
 之后直接运行进行录音
     python CollectAudio.py
 '''
